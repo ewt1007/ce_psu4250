@@ -1,6 +1,8 @@
-# This weeks work on Project
+# Project Work by Week
 
-## Dev board image and wifi connectivity
+## Week 5
+
+### Dev board image and wifi connectivity
 
 - installed podman
 - attempted to flash sd card with debian image using BOARD=oz64
@@ -11,7 +13,7 @@
   - However, we can't get an IP connection to the board yet. Still a
     work in progress. 
 
-## Hardware acquiring
+### Hardware acquiring
 
 - Purchased an adapter ethernet connection on my laptop
 - Placed orders for:
@@ -19,3 +21,12 @@
   - usb to ttl serial cable
   - antenna (wireless connection to dev board).
   
+## Week 7
+
+### Project Timeline
+
+### Code ?
+
+### Reference Image for Final Project
+
+<img src="images/project_inspo.jpg" alt="Image of Project Demo, found online.">
