@@ -29,4 +29,4 @@
 
 ### Reference Image for Final Project
 
-<img src="images/project_inspo.jpg" alt="Image of Project Demo, found online.">
+![Image of Project Demo.](images/project_inspo.jpg)
