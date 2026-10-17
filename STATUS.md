@@ -25,8 +25,25 @@
 
 ### Project Timeline
 
-### Code ?
+Created project timeline; breaks up project into two distinct segments:
+
+- Software/Hardware -> Handling our logic and calendar synchronization
+- Designing and Assembling an enclosure to house our project
+
+### Code
+
+Created a python file to demo some clock logic. Included a test file to test the functions in clock.py
 
 ### Reference Image for Final Project
 
+Here's a reference image for the final project design
+
 ![Image of Project Demo.](images/project_inspo.jpg)
+
+### Additonal updates
+
+Things I've ordered off amazon this week to use in our project:
+- PAM8403 Amplifiers
+- SPI TFT LCD Display modules
+- 3W 8Ω mini speakers
+- 16mm colored push buttons
