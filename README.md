@@ -31,10 +31,7 @@ This project will have several components:
 
 ## Project Timeline
 
-The development board is already running an image, connected to Wi-Fi, and
-accessible over SSH. The eight-week schedule starts from that milestone. The
-software feature set should be complete by the end of Week 6, leaving Weeks 7
-and 8 for building and testing the enclosure.
+The software feature set should be complete by the end of Week 6, leaving Weeks 7 and 8 for building and testing the enclosure.
 
 | Week of | Focus | Milestones |
 | --- | --- | --- |
